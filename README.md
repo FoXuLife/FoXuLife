@@ -15,4 +15,6 @@ After graduation, I was taken to the army, from which I returned in the summer o
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FoXuLife&theme=solarized_dark)
 
-[![codewars](https://www.codewars.com/users/FoXuLife/badges/small)](https://www.codewars.com/users/FoXuLife)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CodeWars+Profile)](https://git.io/typing-svg) 
+
+[![codewars](https://www.codewars.com/users/FoXuLife/badges/large)](https://www.codewars.com/users/FoXuLife)
