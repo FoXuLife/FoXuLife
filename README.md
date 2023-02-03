@@ -15,4 +15,4 @@ After graduation, I was taken to the army, from which I returned in the summer o
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FoXuLife&theme=solarized_dark)
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/FoXuLife)
+[![codewars](https://www.codewars.com/users/FoXuLife/badges/small)](https://www.codewars.com/users/FoXuLife)
