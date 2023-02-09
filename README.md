@@ -3,7 +3,8 @@
 I've been in programming for a couple of years, if you count conscious college education, and during that time I managed to try a couple of web development directions, but stopped at Forntend.
 
 🎓Proficient: HTML5, CSS3 , SASS, JavaScript, React, Redux, PHP, Yii2, Git, Figma.
-
+  Further study: TS, Apollo, NExt.js, Socet IO .... 
+  
 🚶A short story about my path and future plans:
 The path started from college, where the emphasis was placed on PHP, or rather on its Yii2 framework, from there was the first acquaintance with MVС, SQL queries, Cookies, sessions, etc.
 In practice from college, I was invited to my first job in the profession, where I tightened my knowledge in Js by studying PlayCanvas, unfortunately I worked there for only 5 months and left because of my studies. 
